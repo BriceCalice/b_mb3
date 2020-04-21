@@ -1,0 +1,374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"backgroun",
+				"background-size\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"color",
+				"background-color\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"col",
+				"col-sm-4"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"paddin",
+				"padding-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"alig",
+				"text-align\tproperty"
+			],
+			[
+				"al",
+				"align-self\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"fle",
+				"inline-flex\tdisplay"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"gr",
+				"grade"
+			],
+			[
+				"or",
+				"order_price"
+			],
+			[
+				"cost",
+				"cost_20_slabs"
+			],
+			[
+				"cos",
+				"cost_20_slabs"
+			],
+			[
+				"grda",
+				"grades"
+			],
+			[
+				"numbe",
+				"order_number"
+			],
+			[
+				"order",
+				"order_number"
+			],
+			[
+				"size",
+				"size_chosen"
+			],
+			[
+				"sha",
+				"shape_chosen"
+			],
+			[
+				"siz",
+				"size_number"
+			],
+			[
+				"shap",
+				"shape_number"
+			],
+			[
+				"shape",
+				"shape_number"
+			],
+			[
+				"orde",
+				"order_price"
+			],
+			[
+				"ord",
+				"order"
+			],
+			[
+				"Order",
+				"order_price"
+			],
+			[
+				"grade",
+				"grade_chosen"
+			],
+			[
+				"sh",
+				"shapes"
+			],
+			[
+				"depth",
+				"depth_slab"
+			],
+			[
+				"colour",
+				"colour_chosen"
+			],
+			[
+				"gra",
+				"grade_choice"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"set syntax p",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/brice/sitework/thetalk/thesite/templates/thesite/home.html",
+		"/home/brice/sitework/thetalk/thesite/templates/thesite/base.html",
+		"/home/brice/sitework/thetalk/thesite/static/thesite/base.css",
+		"/home/brice/sitework/thetalk/thesite/views.py",
+		"/home/brice/sitework/thetalk/thetalk/settings.py",
+		"/home/brice/sitework/thetalk/thesite/templates/thesite/about.html",
+		"/home/brice/sitework/thetalk/thesite/urls.py",
+		"/home/brice/sitework/thetalk/thetalk/urls.py",
+		"/home/brice/Documents/program/slabtory.py",
+		"/home/brice/Documents/program/menu_slab.py",
+		"/home/brice/Documents/program/concrete_slab.py",
+		"/home/brice/Documents/program/test.py",
+		"/home/brice/Documents/program/new.py",
+		"/home/brice/.config/sublime-text-3/Packages/User/Python3.6.sublime-build"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.6.sublime-build",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
