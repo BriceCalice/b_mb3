@@ -2,16 +2,58 @@
 <html>
 <head>
 	<title>BMB</title>
+	<style type="text/css">
+		input[type=text]{
+			background-color: red;
+		}
+		input[type=number]{
+			background-color: white;
+			border: grey solid 2px;
+			border-radius: 10px;
+			padding: 10px;
+		}
+	</style>
 </head>
 <body>
 	<h1 style="text-align: center;">
 		Hello World! Welcome to Buildmobusiness!
 	</h1>
-	<img src="red_tesla.jpeg" width="30%" >
+	<div style="align-content: center; width: 100%">
+		<img src="red_tesla.jpeg" width="30%" >
+	</div>
 	<div>
 		<form>
-			<input type="text" placeholder="Name" name="name">
-			<button>Submit!</button>
+			<div class="personal">
+				<input type="text" placeholder="first name" name="name">
+				<input type="text" placeholder="last name" name="name">
+				<input type="number" placeholder="age" name="age">
+				<input name="password" type="password" placeholder="password">
+				<p></p>
+				<input list="date_of_birth" name="date" placeholder="date">
+				<datalist id="date_of_birth">
+					<option value="January">
+					<option value="February">
+					<option value="March">
+					<option value="April">
+					<option value="May">
+					<option value="June">
+					<option value="July">
+					<option value="August">
+					<option value="September">
+					<option value="October">
+					<option value="November">
+					<option value="December">
+				</datalist>
+
+			</div>
+			<div>
+				Favorite color?
+				<input type="radio" name="color" value="red"> Red
+				<input type="radio" name="color" value="green"> Green
+				<input type="radio" name="color" value="blue">Blue
+				<input type="radio" name="color" value="other">Other
+			</div>
+
 		</form>
 	</div>
 </body>
